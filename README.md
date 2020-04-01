@@ -31,7 +31,7 @@
 - **个人博客**
 
 
-**<center>[https://www.bianzw.cn/](https://www.bianzw.cn/ "https://www.bianzw.cn/")（共237篇博文）</center>**
+**<center>[https://www.bianzw.cn/](https://www.bianzw.cn/ "https://www.bianzw.cn/")（截止2020.4.1共237篇博文）</center>**
 
 **<center>[网站数据统计报表](https://tongji.baidu.com/web/27175854/overview/index?siteId=12979707&fromMenu=top "网站数据统计报表")</center>**
 
