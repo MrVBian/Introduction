@@ -217,6 +217,12 @@
 
 ![](./imgs/12.png)
 
+#### 4.2机器学习和深度学习思维导图[内容全]
+
+**<center>[下载无损版思维导图](https://cloud.bianzw.cn/index.php?share/file&user=1&sid=YyefISMg "https://cloud.bianzw.cn/index.php?share/file&user=1&sid=YyefISMg")</center>**
+
+![](./imgs/15.png) 
+
 #### 4.2Python数据处理与可视化
 
 **<center>[http://doc.bianzw.cn/web/#/8?page_id=224](http://doc.bianzw.cn/web/#/8?page_id=224 "http://doc.bianzw.cn/web/#/8?page_id=224")</center>**
