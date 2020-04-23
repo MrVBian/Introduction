@@ -59,13 +59,13 @@
 
 版本二：我担任主要负责人，负责完全**实现前端内容及网站性能测试**。共五人开发团队，**担任队长**，**使用Git协作开发**。
 
-**在线访问地址：[学生界面](http://lianghua.ablative.cn:8084/lianghua/login "学生界面")**(电脑版)
+**在线访问地址：[学生界面](www.ablative.cn/lianghua/login "学生界面")**(电脑版)
 
 演示学生账号：2017416000
 
 演示学生密码：1234560..
 
-**在线访问地址：[管理员界面](http://test.ablative.cn/#/login?redirect=%2Fdashboard "管理员界面")**
+**在线访问地址：[管理员界面](www.ablative.cn "管理员界面")**
 
 演示管理员账号：admin
 
