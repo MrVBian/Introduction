@@ -238,7 +238,11 @@
 
 **<center>[http://doc.bianzw.cn/web/#/8?page_id=224](http://doc.bianzw.cn/web/#/8?page_id=224 "http://doc.bianzw.cn/web/#/8?page_id=224")</center>**
 
-### 5 其它
+### 5 PCL点云库笔记
+
+**<center>[https://github.com/MrVBian/PCLNotes](https://github.com/MrVBian/PCLNotes "https://github.com/MrVBian/PCLNotes")</center>**
+
+### 6 其它
 
 - 版本控制：掌握SVN【**[查看笔记](https://www.bianzw.cn/web/wzjs/43.html "查看笔记")**】和Git搭建和使用
 - 熟练掌握的编辑器：Markdown、Office、VIM、Sublime
