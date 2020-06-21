@@ -167,9 +167,13 @@
 
 ![](./imgs/16.gif)
 
-### ROS Rviz 插件编写
+### ROS Rviz 插件编写，由我负责编程
 
 ![](./imgs/17.png)
+
+### ROS flow based programming 开发第一版，由我编程实现，基于Persimmon开源项目开发
+
+![](./imgs/18.gif)
 
 # 综合能力
 
