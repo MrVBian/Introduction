@@ -155,10 +155,6 @@
 
 **关键字：辅助驾驶 ImageNet SqueezeNet YOLO v3 B-CNN**
 
-投稿中国数据挖掘会议（China Conference on Data Mining，CCDM），在审稿状态
-
-**链接地址：在审稿状态**
-
 ![](./imgs/8.gif)
 
 ### sim2real
