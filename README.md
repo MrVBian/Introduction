@@ -242,6 +242,8 @@
 
 **<center>[https://github.com/MrVBian/PCLNotes](https://github.com/MrVBian/PCLNotes "https://github.com/MrVBian/PCLNotes")</center>**
 
+![](./imgs/19.png) 
+
 ### 6 其它
 
 - 版本控制：掌握SVN【**[查看笔记](https://www.bianzw.cn/web/wzjs/43.html "查看笔记")**】和Git搭建和使用
