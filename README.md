@@ -1,5 +1,11 @@
 为了让各位老师更好地了解我，我将从**荣誉成绩**、**项目实践**和**综合能力**这三个方面展开介绍：
 
+# 论文
+
+- Driving Assistance System Based on Deep Learning and Traditional Vision  Zhenwei Bian, Tao Yu, Xin Zhang, Xiaoyan GongYe, CSA2020. 
+- Learning 6D Pose of Texture-less Objects via Multi-scale Dense Relation  Junwen Huang, Zhenwei Bian, Yifei Shi, Xin Xu, Hongjia Zhang, Chenggang Xie，IVPAI2020. 
+- Unsupervised Part-wise 3D Shape Reconstruction from Single-View RGB Images  Chengjie Niu, Yang Yu, Zhenwei Bian, Jun Li, Kai Xu, Computer Graphics Forum. 
+
 # 荣誉成绩
 
 - 国际大学生程序设计竞赛秦皇岛现场赛国级优秀奖[2019.09]
