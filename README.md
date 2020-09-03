@@ -155,11 +155,11 @@
 
 ### 论文：
 
-**题目：基于计算机视觉的辅助驾驶系统**
+**topic：Driving Assistance System Based on Deep Learning and Traditional Vision**
 
-**摘 要**：机器视觉和人工智能等相关技术比光达、雷达等硬件实现的检测技术成本低且易实现，汽车通过配备先进的智能辅助驾驶系统，可以防止或减少交通事故。在此背景下，本文识别与分析交通中最重要的红绿灯、车辆、车道线。基于ImageNet预训练，SqueezeNet搭建架构微调的网络识别红绿灯，最终模型的大小仅7.84MB，识别精度高达94.95%，达到12.4ms/帧处理速度；YOLO v3训练的车辆识别器和B-CNN训练的车辆分类器单帧处理速度高达24.47ms；借助计算机视觉与数学运算、图像透视变换和多项式拟合等方法分析车道线，具有运算速度快、精度高的优点。
+**Abstract.** Relevant technologies such as computer vision and artificial intelligence are cheaper and easier to implement than detection technologies implemented by hardware such as lidar and radar. Cars are equipped with advanced intelligent driving assistance systems to prevent or reduce traffic accidents. In this context, this paper will identify and analyze the most important traffic lights, vehicles, and lane lines in traffic. Based on ImageNet pre-training, SqueezeNet builds fine-tuned network recognition traffic lights. Aims to achieve an assisted driving system that integrates deep learning and traditional vision. The final model size is only 7.84MB, the recognition accuracy is as high as 94.95%, and the processing speed is 12.4ms / frame. The single-frame processing speed of recognizer of YOLO v3 trained vehicle and classifier of B-CNN trained vehicle is up to 24.47ms. Using computer vision and mathematical operations, image perspective transformation, and polynomial fitting to analyze lane lines has the advantage of reducing cost.
 
-**关键字：辅助驾驶 ImageNet SqueezeNet YOLO v3 B-CNN**
+**Keyword：Assisted driving ImageNet SqueezeNet YOLO v3 B-CNN**
 
 ![](./imgs/8.gif)
 
